@@ -54,8 +54,8 @@ export const Hero = () => {
               </Button>
               <Button 
                 size="lg" 
-                variant="outline" 
-                className="border-aviation-white/30 text-aviation-white hover:bg-aviation-white/10 text-lg px-8 py-6"
+                variant="aviation-outline" 
+                className="text-lg px-8 py-6"
               >
                 Contact Us Today
               </Button>
