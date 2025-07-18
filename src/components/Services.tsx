@@ -97,7 +97,7 @@ export const Services = () => {
             </Button>
             <Button 
               size="lg" 
-              variant="outline" 
+              variant="aviation-outline" 
               className="border-aviation-white/30 text-aviation-white hover:bg-aviation-white/10"
             >
               Contact Us Today
