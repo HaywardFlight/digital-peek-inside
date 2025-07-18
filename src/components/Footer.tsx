@@ -71,7 +71,7 @@ export const Footer = () => {
 
         <div className="border-t border-aviation-white/20 mt-8 pt-8 text-center">
           <p className="text-aviation-white/60">
-            © 2025 HF Hangars. All rights reserved. Professional aircraft hangar services.
+            © 2025 HF Hangars. All rights reserved. Located at Hayward Executive Airport.
           </p>
         </div>
       </div>
