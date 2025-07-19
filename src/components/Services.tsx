@@ -93,7 +93,7 @@ export const Services = () => {
               size="lg" 
               className="bg-aviation-white text-primary hover:bg-aviation-white/90 shadow-lg"
             >
-              Get Hangar Information
+              <a href="/hangar-information">Get Hangar Information</a>
             </Button>
             <Button 
               size="lg" 
