@@ -11,16 +11,6 @@ export const Footer = () => {
             <p className="text-aviation-white/80 mb-6 leading-relaxed">
               Professional aircraft hangar services providing secure storage and maintenance for your valuable aircraft. We're committed to excellence in aviation services.
             </p>
-            <div className="space-y-2">
-              <div className="flex items-center space-x-2 text-aviation-white/80">
-                <Phone className="h-4 w-4 text-accent" />
-                <span>(925) 575-1172</span>
-              </div>
-              <div className="flex items-center space-x-2 text-aviation-white/80">
-                <Mail className="h-4 w-4 text-accent" />
-                <span>hfhangars@gmail.com</span>
-              </div>
-            </div>
           </div>
 
           {/* Services */}
@@ -40,8 +30,10 @@ export const Footer = () => {
             <h4 className="text-lg font-semibold mb-4">Contact Information</h4>
             <div className="space-y-4 text-aviation-white/80">
               <div className="flex items-start space-x-2">
-                <MapPin className="h-4 w-4 text-accent mt-1 flex-shrink-0" />
-                <span>20995 Skywest Dr<br />Hayward, CA 94541</span>
+                <Phone className="h-4 w-4 text-accent" />
+                <span>(925) 575-1172</span>
+                <Mail className="h-4 w-4 text-accent" />
+                <span>hfhangars@gmail.com</span>
               </div>
               <div>
                 <p className="font-medium text-aviation-white mb-1">Business Hours:</p>
