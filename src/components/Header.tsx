@@ -20,13 +20,13 @@ export const Header = () => {
           <nav className="hidden md:flex items-center space-x-8">
             <a 
               href="/" 
-              className="text-aviation-white hover:text-aviation-gold transition-colors"
+              className="text-aviation-gold hover:text-aviation-white transition-colors"
             >
               Home
             </a>
             <a 
               href="/hangar-information" 
-              className="text-aviation-white hover:text-aviation-gold transition-colors"
+              className="text-aviation-gold hover:text-aviation-white transition-colors"
             >
               Hangar Information
             </a>
