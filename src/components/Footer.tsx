@@ -48,6 +48,9 @@ export const Footer = () => {
           {/* Google Maps */}
           <div>
             <h4 className="text-lg font-semibold mb-4">Our Location</h4>
+            <div>
+              <p>20995 Skywest Dr, Hayward, CA 94541</p>
+            </div>
             <div className="rounded-lg overflow-hidden border border-aviation-white/20">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.8473892384754!2d-122.1226706842514!3d37.663449379796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f9b7c8b8b8b8b%3A0x8b8b8b8b8b8b8b8b!2s20995%20Skywest%20Dr%2C%20Hayward%2C%20CA%2094541!5e0!3m2!1sen!2sus!4v1640000000000!5m2!1sen!2sus"
