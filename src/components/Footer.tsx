@@ -14,7 +14,7 @@ export const Footer = () => {
           </div>
 
           {/* Services */}
-          <div>
+        <div className="lg:ml-6">
             <h4 className="text-lg font-semibold mb-4">Our Services</h4>
             <ul className="space-y-2 text-aviation-white/80">
               <li>• Aircraft Storage</li>
@@ -29,11 +29,11 @@ export const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact Information</h4>
             <div className="space-y-4 text-aviation-white/80">
-              <div className="flex items-start space-x-2">
+              <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-accent" />
                 <span>(925) 575-1172</span>
               </div>
-             <div className="flex items-start space-x-2">
+              <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-accent" />
                 <span>hfhangars@gmail.com</span>
               </div>
@@ -48,7 +48,7 @@ export const Footer = () => {
           {/* Google Maps */}
           <div>
             <h4 className="text-lg font-semibold mb-4">Our Location</h4>
-            <div>
+            <div className="text-aviation-white/80 mb-4">
               <p>20995 Skywest Dr, Hayward, CA 94541</p>
             </div>
             <div className="rounded-lg overflow-hidden border border-aviation-white/20">
