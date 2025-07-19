@@ -19,22 +19,16 @@ export const Header = () => {
           {/* Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
             <a 
-              href="#home" 
-              className="text-accent font-medium hover:text-accent/80 transition-colors"
+              href="/" 
+              className="text-aviation-white hover:text-aviation-gold transition-colors"
             >
               Home
             </a>
             <a 
-              href="#services" 
-              className="text-foreground hover:text-accent transition-colors"
+              href="/hangar-information" 
+              className="text-aviation-white hover:text-aviation-gold transition-colors"
             >
-              Services
-            </a>
-            <a 
-              href="#contact" 
-              className="text-foreground hover:text-accent transition-colors"
-            >
-              Contact
+              Hangar Information
             </a>
           </nav>
 
