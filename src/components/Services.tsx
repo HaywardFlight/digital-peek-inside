@@ -19,7 +19,7 @@ const services = [
     icon: Clock,
     title: "24/7 Access",
     description: "Round-the-clock access to your aircraft with convenient scheduling and flexible arrangements.",
-    features: ["Flexible Access Hours", "Easy Scheduling", "Key Card Access"]
+    features: ["Flexible Access Hours", "Easy Scheduling", "Restrooms Available"]
   }
 ];
 
