@@ -50,7 +50,7 @@ export const Hero = () => {
                 size="lg" 
                 className="bg-accent hover:bg-accent/90 text-aviation-white shadow-aviation text-lg px-8 py-6"
               >
-                View Hangar Information
+                <a href="/hangar-information">View Hangar Information</a>
               </Button>
               <Button 
                 size="lg" 
