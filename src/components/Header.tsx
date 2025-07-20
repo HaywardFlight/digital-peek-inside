@@ -30,6 +30,12 @@ export const Header = () => {
             >
               Hangar Information
             </a>
+            <a 
+              href="/contact-us" 
+              className="text-aviation-gold hover:text-aviation-white transition-colors"
+            >
+              Contact Us
+            </a>
           </nav>
 
           {/* Contact Info */}

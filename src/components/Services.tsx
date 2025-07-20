@@ -100,7 +100,7 @@ export const Services = () => {
               variant="aviation-outline" 
               className="border-aviation-white/30 text-aviation-white hover:bg-aviation-white/10"
             >
-              Contact Us Today
+              <a href="/contact-us">Contact Us Today</a>
             </Button>
           </div>
         </div>

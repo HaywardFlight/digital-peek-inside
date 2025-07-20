@@ -57,7 +57,7 @@ export const Hero = () => {
                 variant="aviation-outline" 
                 className="text-lg px-8 py-6"
               >
-                Contact Us Today
+                <a href="/contact-us">Contact Us Today</a>
               </Button>
             </div>
           </div>
