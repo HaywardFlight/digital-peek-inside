@@ -97,7 +97,7 @@ const ContactUs = () => {
                 <img 
                   src="https://static.wixstatic.com/media/c03c85e57c6e403e89439cecbc76fc72.jpg/v1/fill/w_800,h_600,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/c03c85e57c6e403e89439cecbc76fc72.jpg"
                   alt="Professional aircraft jet engine"
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-fill"
                 />
               </div>
               <div className="absolute inset-0 bg-gradient-to-t from-aviation-dark/20 to-transparent rounded-lg"></div>
