@@ -49,15 +49,17 @@ export const Hero = () => {
               <Button 
                 size="lg" 
                 className="bg-accent hover:bg-accent/90 text-aviation-white shadow-aviation text-lg px-8 py-6"
+                onClick={() => window.location.href = '/hangar-information'}
               >
-                <a href="/hangar-information">View Hangar Information</a>
+                View Hangar Information
               </Button>
               <Button 
                 size="lg" 
                 variant="aviation-outline" 
                 className="text-lg px-8 py-6"
+                onClick={() => window.location.href = '/contact-us'}
               >
-                <a href="/contact-us">Contact Us Today</a>
+                Contact Us Today
               </Button>
             </div>
           </div>
