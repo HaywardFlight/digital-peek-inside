@@ -92,15 +92,17 @@ export const Services = () => {
             <Button 
               size="lg" 
               className="bg-aviation-white text-primary hover:bg-aviation-white/90 shadow-lg"
+              onClick={() => window.location.href = '/hangar-information'}
             >
-              <a href="/hangar-information">Get Hangar Information</a>
+              Get Hangar Information
             </Button>
             <Button 
               size="lg" 
               variant="aviation-outline" 
               className="border-aviation-white/30 text-aviation-white hover:bg-aviation-white/10"
+              onClick={() => window.location.href = '/contact-us'}
             >
-              <a href="/contact-us">Contact Us Today</a>
+              Contact Us Today
             </Button>
           </div>
         </div>
