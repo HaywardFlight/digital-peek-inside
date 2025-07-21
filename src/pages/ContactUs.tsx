@@ -80,15 +80,6 @@ const ContactUs = () => {
                   </div>
                 </div>
               </div>
-
-              <div className="text-center">
-                <Button 
-                  size="lg" 
-                  className="bg-accent hover:bg-accent/90 text-white"
-                >
-                  <a href="tel:+19255751172">Call Now</a>
-                </Button>
-              </div>
             </div>
 
             {/* Image Section */}
