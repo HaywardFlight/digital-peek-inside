@@ -100,7 +100,6 @@ const ContactUs = () => {
                   className="w-full h-auto"
                 />
               </div>
-              <div className="absolute inset-0 bg-gradient-to-t from-aviation-dark/20 to-transparent rounded-lg"></div>
             </div>
           </div>
 
