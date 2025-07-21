@@ -1,14 +1,9 @@
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
-
 User-agent: *
 Allow: /
+
+# Allow crawling of key pages
+Allow: /hangar-information
+Allow: /contact-us
+
+# Sitemap location
+Sitemap: https://hfhangars.com/sitemap.xml
